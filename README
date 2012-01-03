@@ -1,0 +1,4 @@
+//create a config file like this:
+<?php
+
+$config['password'] = 'password';
